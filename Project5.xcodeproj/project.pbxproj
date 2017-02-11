@@ -12,6 +12,7 @@
 		015537281E4EA0C500DC92E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 015537261E4EA0C500DC92E1 /* Main.storyboard */; };
 		0155372A1E4EA0C500DC92E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 015537291E4EA0C500DC92E1 /* Assets.xcassets */; };
 		0155372D1E4EA0C500DC92E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0155372B1E4EA0C500DC92E1 /* LaunchScreen.storyboard */; };
+		015537351E4EA21500DC92E1 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 015537341E4EA21500DC92E1 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		015537291E4EA0C500DC92E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0155372C1E4EA0C500DC92E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0155372E1E4EA0C500DC92E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		015537341E4EA21500DC92E1 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				015537261E4EA0C500DC92E1 /* Main.storyboard */,
 				015537291E4EA0C500DC92E1 /* Assets.xcassets */,
 				0155372B1E4EA0C500DC92E1 /* LaunchScreen.storyboard */,
+				015537341E4EA21500DC92E1 /* start.txt */,
 				0155372E1E4EA0C500DC92E1 /* Info.plist */,
 			);
 			path = Project5;
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0155372D1E4EA0C500DC92E1 /* LaunchScreen.storyboard in Resources */,
+				015537351E4EA21500DC92E1 /* start.txt in Resources */,
 				0155372A1E4EA0C500DC92E1 /* Assets.xcassets in Resources */,
 				015537281E4EA0C500DC92E1 /* Main.storyboard in Resources */,
 			);
